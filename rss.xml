@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[jakubvodak]]></title>
-        <description><![CDATA[jakubvodak]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Personal website]]></title>
+        <description><![CDATA[Personal website]]></description>
+        <link>http://jakubvodak.cz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 16:47:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jan 2016 16:26:28 GMT</lastBuildDate>
+        <atom:link href="http://jakubvodak.cz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eae1b1f6-d87f-4c23-9429-67fcfa0c3fe9.jpg" alt="" title="">]]></description>
-            <link>undefined4dd4812c-6c00-4a51-9818-7a47071cde3b/index.html</link>
+            <link>http://jakubvodak.cz/4dd4812c-6c00-4a51-9818-7a47071cde3b/index.html</link>
             <guid isPermaLink="false">4dd4812c-6c00-4a51-9818-7a47071cde3b</guid>
-            <pubDate>Tue, 05 Jan 2016 16:47:52 GMT</pubDate>
+            <pubDate>Sat, 16 Jan 2016 16:23:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
