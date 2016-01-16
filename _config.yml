@@ -1,6 +1,6 @@
 name: jakubvodak
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.15758
 typography_spectrum: 0.41299
 title: Personal website
 cta:
@@ -22,7 +22,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.12632127245888114
+  brandStrength: 0.0625
   lightness: 0.18273844779469073
   saturation: 0.950863981153816
   rhythmicContrast: 0.9593079434707761
