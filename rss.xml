@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Personal website]]></title>
-        <description><![CDATA[Personal website]]></description>
+        <title><![CDATA[Jakub Vodak | Personal website]]></title>
+        <description><![CDATA[Jakub Vodak | Personal website]]></description>
         <link>http://jakubvodak.cz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 16:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 08:08:00 GMT</lastBuildDate>
         <atom:link href="http://jakubvodak.cz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Another post</p>]]></description>
+            <link>http://jakubvodak.cz/2d86e698-2865-483c-acc7-2bab37282a77/index.html</link>
+            <guid isPermaLink="false">2d86e698-2865-483c-acc7-2bab37282a77</guid>
+            <pubDate>Sun, 17 Jan 2016 08:07:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eae1b1f6-d87f-4c23-9429-67fcfa0c3fe9.jpg" alt="" title="">]]></description>
